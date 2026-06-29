@@ -41,3 +41,4 @@ def inject_hardware_faults(clean_stream):
 
         # Nominal Condition : Pass through unaffected frame
         yield frame
+
